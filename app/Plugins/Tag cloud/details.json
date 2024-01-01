@@ -1,0 +1,8 @@
+{
+    "description": "This plugin creates a widget that fetches all tags in the blog, and creates visual links in the front end.",
+    "version": "0.0.1",
+    "author": "Mava",
+    "author_url": "https://blindsjs.com",
+    "plugin_url": "https://blindsjs.com",
+    "misc": []
+}
